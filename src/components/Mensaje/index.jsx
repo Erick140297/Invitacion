@@ -27,7 +27,7 @@ const Mensaje = () => {
 export default Mensaje
 
 const Salmo = styled.p`
- color: #eac807;
+ color: #dd772f;
  text-align:center;
  margin-top:70px;
  font-size:25px;
@@ -57,7 +57,7 @@ const Container = styled.div`
 
 const Name = styled.h2`
   color: #dd772f;
-  font-size:25px;
+  font-size:35px;
   font-family: cursive;
 `
 const H2 = styled.h2`

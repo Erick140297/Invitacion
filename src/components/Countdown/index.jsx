@@ -46,6 +46,7 @@ const Contador = styled.div`
   flex-wrap: wrap;
   justify-content: center;
   color: #232373;
+  padding-top:20px;
 `;
 
 const Element = styled.div`
