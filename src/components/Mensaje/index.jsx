@@ -62,4 +62,5 @@ const Name = styled.h2`
 `
 const H2 = styled.h2`
   margin-top:20px;
+  color: #232373;
 `
